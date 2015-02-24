@@ -1,0 +1,6 @@
+C:\Users\Innocenzo Tremamondo\Psicologia\Psicologia\bin\Debug\Psicologia.exe.config
+C:\Users\Innocenzo Tremamondo\Psicologia\Psicologia\bin\Debug\Psicologia.exe
+C:\Users\Innocenzo Tremamondo\Psicologia\Psicologia\bin\Debug\Psicologia.pdb
+C:\Users\Innocenzo Tremamondo\Psicologia\Psicologia\obj\Debug\Psicologia.csprojResolveAssemblyReference.cache
+C:\Users\Innocenzo Tremamondo\Psicologia\Psicologia\obj\Debug\Psicologia.exe
+C:\Users\Innocenzo Tremamondo\Psicologia\Psicologia\obj\Debug\Psicologia.pdb
